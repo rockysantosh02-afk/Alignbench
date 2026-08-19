@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: alignbench
+Version: 0.1.0
+Summary: An open-source benchmark for evaluating alignment behavior of language models
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+
+# AlignBench
+
+AlignBench is an open-source benchmark for evaluating the alignment behavior of open-source language models.
+
+## Status
+
+Project setup in progress.
