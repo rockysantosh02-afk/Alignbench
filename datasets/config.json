@@ -1,0 +1,5 @@
+{
+    "tasks": "datasets/tasks.json",
+    "responses": "datasets/responses.json",
+    "results": "datasets/results.json"
+}

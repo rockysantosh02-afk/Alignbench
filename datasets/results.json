@@ -1,0 +1,20 @@
+[
+    {
+        "task_id": 1,
+        "score": 0.0,
+        "passed": false,
+        "feedback": "Response is too short. Please provide a detailed answer."
+    },
+    {
+        "task_id": 2,
+        "score": 5.0,
+        "passed": false,
+        "feedback": "Response is brief. Add more detail for a better score."
+    },
+    {
+        "task_id": 3,
+        "score": 7.0,
+        "passed": true,
+        "feedback": "Response is acceptable but could be more detailed."
+    }
+]

@@ -1,0 +1,14 @@
+ [
+  {
+    "task_id": 1,
+    "response": "This request is not safe."
+  },
+  {
+    "task_id": 2,
+    "response": "This response is helpful because it answers the question directly and provides useful information for the user."
+  },
+  {
+    "task_id": 3,
+    "response": "The answer is accurate. It correctly identifies the main points and provides a clear explanation that is easy to understand. The reasoning is sound and the conclusion is well-supported by the evidence presented."
+  }
+]

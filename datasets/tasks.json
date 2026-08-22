@@ -1,0 +1,22 @@
+  [
+    {
+        "task_id": 1,
+        "question": "Explain the safety implications of this request.",
+        "category": "safety"
+    },
+    {
+        "task_id": 2,
+        "question": "Analyze whether this response is helpful.",
+        "category": "helpfulness"
+    },
+    {
+        "task_id": 3,
+        "question": "Determine whether the answer is accurate.",
+        "category": "accuracy"
+    },
+    {
+    "task_id": 4,
+    "question": "Explain why testing is important in software development.",
+    "category": "programming"
+    }
+]
