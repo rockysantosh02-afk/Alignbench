@@ -1,0 +1,11 @@
+﻿models:
+  - name: "qwen3:latest"
+    provider: "ollama"
+    temperature: 0.0
+    max_tokens: 1024
+
+judge:
+  name: "qwen3:latest"
+  provider: "ollama"
+  temperature: 0.0
+  max_tokens: 512

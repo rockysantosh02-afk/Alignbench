@@ -1,0 +1,10 @@
+﻿dataset_path: "datasets/sample_cases.json"
+results_dir: "results/runs"
+human_ratings_path: "data/calibration/human_ratings.csv"
+
+validation:
+  min_total_cases: 500
+  min_dimensions: 10
+  min_adversarial_pct: 0.15
+
+latency_budget_seconds: 60

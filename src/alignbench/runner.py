@@ -7,6 +7,7 @@ from alignbench.validation import validate_task
 from alignbench.evaluator import evaluate_response
 from alignbench.response_loder import load_responses
 from alignbench.result_writer import save_results
+from alignbench.analyzer import analyze_results
 
 def parse_args():
      parser = argparse.ArgumentParser(
@@ -126,5 +127,6 @@ def run_benchmark():
     print(f"Passed Tasks: {passed_tasks}")
     print(f"Failed Tasks: {failed_tasks}")
     print(f"Average Score: {average_score:.2f}")
+    
 if __name__=="__main__":
       run_benchmark()
