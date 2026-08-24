@@ -1,3 +1,0 @@
-﻿__test__ = False
-
-class TestCase(BaseModel):
